@@ -1,6 +1,6 @@
 # unit-2-basic-todos
 
-<b><u>STEP 1: Preparation:<b><u>
+<b><u>STEP 1: Preparation:</b><u>
 
 1. Clone this repo using "git clone https://github.com/alexanderghose/unit-2-basic-todos.git"
 2. cd into the "intro-express" folder
