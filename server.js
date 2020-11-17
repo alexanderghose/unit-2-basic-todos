@@ -11,6 +11,6 @@ app.get('/todos', function(req, res) {
   res.render('todos/index', {todos: todoDb.todos})
 })
 
-app.listen(3001, function () {
-  console.log('Listening on port 3001');
+app.listen(3000, function () {
+  console.log('Listening on port 3000');
 });
