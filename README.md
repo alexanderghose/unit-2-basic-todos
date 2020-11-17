@@ -1,6 +1,6 @@
 # unit-2-basic-todos
 
-STEP 1: Preparation:
+<b><u>STEP 1: Preparation:<b><u>
 
 1. Clone this repo using "git clone https://github.com/alexanderghose/unit-2-basic-todos.git"
 2. cd into the "intro-express" folder
@@ -11,7 +11,7 @@ STEP 1: Preparation:
 
 <img src="screenshot.PNG">
 
-STEP 2: Task:
+<b><u>STEP 2: Task:</b></u>
 
 You have two options
 
